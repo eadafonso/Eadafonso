@@ -9,7 +9,7 @@ Iam a passionate Developer currently working with the best web & mobile developm
 - 🌱 I’m currently learning Typescript + NextJs
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/eadafonso)
-- ⚡ Fun fact: Don't think everyone dev likes coffee
+- ⚡ Fun fact: I don't think every programmer likes coffee
 
 #### Follow me
 
