@@ -5,7 +5,7 @@
 
 Iam a passionate Developer currently working with the best web & mobile development technologies.
 
-- 🔭 I’m currently working on Eadfast
+- 🔭 I’m currently working on LBC
 - 🌱 I’m currently learning Typescript + NextJs
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/eadafonso)
